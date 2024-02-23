@@ -7,4 +7,4 @@ while True:
     if word == "1":
         break
 
-    print(dictionary.meaning(word))
+    print(dictionary.meaning(word))#provide meaning of the word form dictionary
